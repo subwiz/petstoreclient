@@ -1,7 +1,7 @@
 [package]
-name = "openapi"
+name = "petstoreclient"
 version = "1.0.0"
-authors = ["OpenAPI Generator team and contributors"]
+authors = ["subwiz"]
 description = "This is a sample server Petstore server. For this sample, you can use the api key `special-key` to test the authorization filters."
 license = "Apache-2.0"
 edition = "2021"
